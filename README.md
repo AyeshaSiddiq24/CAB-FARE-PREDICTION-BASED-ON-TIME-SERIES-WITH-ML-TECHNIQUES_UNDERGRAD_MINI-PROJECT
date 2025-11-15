@@ -3,7 +3,7 @@
 
 This project is based on our research work published in **IJIRT, Volume 10, Issue 2 (2023)**. It focuses on predicting cab fares using **time-series analysis** and **machine learning techniques**. The objective is to estimate taxi fares before booking, ensuring fairness, transparency, and protection from overcharging.
 
----
+
 
 ## Overview
 
